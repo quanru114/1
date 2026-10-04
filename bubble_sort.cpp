@@ -4,7 +4,7 @@ int main(){
 	int a[10];
 	cout <<  "Please input 8 numbers :";
 	int t;
-	for(int i=0;i<8;i++){
+	for(int i=0;i<9;i++){
 		cin >> a[i];
 	}
 	for(int i=0;i<7;i++){
